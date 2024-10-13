@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Playing with d41y4n._.", "Made by d41y4n._."];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
